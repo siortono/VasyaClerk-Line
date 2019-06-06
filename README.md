@@ -1,4 +1,4 @@
-# VasyaClerk-Line
+# VasyaClerk
 VasyaClerk Kata
 
 <b>Instruction:</b>
